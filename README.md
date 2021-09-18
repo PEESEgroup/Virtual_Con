@@ -17,3 +17,4 @@ This file contains LCI and LCIA for the in-person and virtual scenarios.
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
 > Tao, Y., & You, F.* (2021). Trend of virtual and hybrid conferences since COVID-19 effectively mitigate climate change, submitted to Nature Communication.
+> [![DOI](https://zenodo.org/badge/407425669.svg)](https://zenodo.org/badge/latestdoi/407425669)
