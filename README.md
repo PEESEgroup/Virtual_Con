@@ -7,13 +7,13 @@ The three Excel files contains all modeling parameters and input data for the st
 
 Each set of hybrid scenarios involves 1 to 6 hubs. The locations of conference hubs for each scenario are determined using the facility location optimization model for shortest total travel distances. Moreover, the facility location optimization model also makes decisions for participants on whether they attend virtually or which hub should they go.
 ## Data Files
-The first tab of each Excel file is named "outline", which lists the modeling parameters and input data that are included in the data file, as well as their locations in the Excel file given by tab names. For instance, the capital costs of electricty generators are given in tab "CapexE" in the data files.
+The first tab of each Excel file is named "outline", which lists the content of each tab.
 ### Catering.xlsm: 
-The file contains LCI and LCIA for the catering stage of conferences. "All crop"
+This file contains LCI and LCIA for the catering stage of conferences.
 ### Virtual Con_Hybrid.xlsm: 
-LCI and LCIA for the hybrid scenarios
+This file contains LCI and LCIA for the hybrid scenarios.
 ### Virtual Con_In-person&Virtual.xlsm: 
-LCI and LCIA for the in-person and virtual scenarios
+This file contains LCI and LCIA for the in-person and virtual scenarios.
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
 > Tao, Y., & You, F.* (2021). Trend of virtual and hybrid conferences since COVID-19 effectively mitigate climate change, submitted to Nature Communication.
