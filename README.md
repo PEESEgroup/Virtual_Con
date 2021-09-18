@@ -6,6 +6,7 @@ The three Excel files contains all modeling parameters and input data for the st
 •	 “maximum virtual participation” scenarios: the maximum virtual participation level (10%, 30%, 50%, or 70%) and the number of conference hubs.
 Each set of hybrid scenarios involves 1 to 6 hubs. The locations of conference hubs for each scenario are determined using the facility location optimization model for shortest total travel distances. Moreover, the facility location optimization model also makes decisions for participants on whether they attend virtually or which hub should they go.
 ## Data Files
+The first tab of each Excel file is named "outline", which lists the modeling parameters and input data that are included in the data file, as well as their locations in the Excel file given by tab names. For instance, the capital costs of electricty generators are given in tab "CapexE" in the data files.
 ### Catering.xlsm: 
 The file contains LCI and LCIA for the catering stage of conferences. "All crop"
 ### Virtual Con_Hybrid.xlsm: 
