@@ -1,0 +1,384 @@
+,field_1,Source_Location,Source_lat,Source_long,Source_Country,Dest_Airport_Rank,Dest_Country,Dest_Airport,Dest_lat,Dest_long,HubDist,Ground_dist,Mode
+210,210,"Dorsoduro, 3246, 30123 Venezia VE, Italy",45.434493,12.326169,IT,38,Italy  ,Venice Marco Polo Airport,45.434497,12.323981,334.3159684,0.297,rail
+50,50,"207 Queens Quay W, Toronto, ON M5J 1A7, Canada",43.638886,-79.380352,CA-ON,130,Toronto,Billy Bishop Toronto City Airport,43.628482,-79.395958,2.192079971,2.462,drive
+363,363,"Toronto, Ontario, Canada",43.653226,-79.383184,CA-ON,130,Toronto,Billy Bishop Toronto City Airport,43.628482,-79.395958,4.20055989,4.171,drive
+320,320,"Regina, Saskatchewan, Canada",50.445211,-104.618894,CA-SK,136,Regina,Regina International Airport,50.432103,-104.663941,3.696341716,4.209,drive
+160,160,"Boston, Massachusetts, United States",42.360082,-71.05888,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,4.343332983,5.348,drive
+161,161,"Boston, Massachusetts, United States",42.360082,-71.05888,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,4.343332983,5.348,drive
+162,162,"Boston, Massachusetts, United States",42.360082,-71.05888,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,4.343332983,5.348,drive
+163,163,"Boston, Massachusetts, United States",42.360082,-71.05888,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,4.343332983,5.348,drive
+164,164,"Boston, Massachusetts, United States",42.360082,-71.05888,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,4.343332983,5.348,drive
+165,165,"Boston, Massachusetts, United StatesÂ ",42.360082,-71.05888,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,4.343332983,5.348,drive
+227,227,Greater Boston,42.360071,-71.05883,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,4.339798853,5.351,drive
+73,73,"27 King's College Cir, Toronto, ON M5S, Canada",43.660849,-79.395494,CA-ON,130,Toronto,Billy Bishop Toronto City Airport,43.628482,-79.395958,5.20070182,5.424,drive
+74,74,"27 King's College Cir, Toronto, ON M5S, Canada",43.660849,-79.395494,CA-ON,130,Toronto,Billy Bishop Toronto City Airport,43.628482,-79.395958,5.20070182,5.424,drive
+75,75,"27 King's College Cir, Toronto, ON M5S, Canada",43.660849,-79.395494,CA-ON,130,Toronto,Billy Bishop Toronto City Airport,43.628482,-79.395958,5.20070182,5.424,drive
+100,100,"55 Fruit St, Boston, MA 02114",42.362706,-71.068658,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,5.051592584,6.529,drive
+119,119,"950 L'Enfant Plaza SW # 110, Washington, DC 20024",38.883255,-77.025096,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,5.313025481,7.066,drive
+120,120,"950 L'Enfant Plaza SW # 110, Washington, DC 20024",38.883255,-77.025096,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,5.313025481,7.066,drive
+15,15,"1000 Morris Ave, Union, NJ 07083",40.676458,-74.228479,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,5.264118465,7.067,drive
+16,16,"1000 Morris Ave, Union, NJ 07083",40.676458,-74.228479,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,5.264118465,7.067,drive
+17,17,"1000 Morris Ave, Union, NJ 07083",40.676458,-74.228479,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,5.264118465,7.067,drive
+127,127,"Albuquerque, New Mexico, United States",35.084386,-106.650422,US,119,Albuquerque,Albuquerque International Sunport,35.043333,-106.612909,9.803284263,7.454,drive
+378,378,"Weston Hall, Newark, NJ 07102",40.741002,-74.177421,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,7.877783339,7.525,drive
+55,55,"2301 Constitution Ave. NW, Washington, DC 20037",38.892919,-77.050563,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,6.503647703,7.631,drive
+56,56,"2301 Constitution Ave. NW, Washington, DC 20037",38.892919,-77.050563,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,6.503647703,7.631,drive
+51,51,"2101 Constitution Ave. NW, Washington, DC 20418",38.892379,-77.048396,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,6.414580412,7.7,drive
+35,35,"1421 Prince St #340, Alexandria, VA 22314",38.805311,-77.055997,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,7.460655927,8.004,drive
+370,370,Washington DC-Baltimore Area,38.907192,-77.036871,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.800194329,8.406,drive
+371,371,Washington DC-Baltimore Area,38.907192,-77.036871,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.800194329,8.406,drive
+372,372,Washington DC-Baltimore Area,38.907192,-77.036871,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.800194329,8.406,drive
+373,373,"Washington, District of Columbia, United States",38.907192,-77.036871,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.800194329,8.406,drive
+374,374,"Washington, District of Columbia, United States",38.907192,-77.036871,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.800194329,8.406,drive
+375,375,"Washington, District of Columbia, United States",38.907192,-77.036871,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.800194329,8.406,drive
+134,134,"Arlington, Virginia, United StatesÂ ",38.881621,-77.090981,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,6.186891239,8.634,drive
+114,114,"77 Massachusetts Ave, Cambridge, MA 02139",42.359244,-71.093139,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,7.227038856,8.686,drive
+115,115,"77 Massachusetts Ave, Cambridge, MA 02139",42.359244,-71.093139,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,7.227038856,8.686,drive
+116,116,"77 Massachusetts Ave, Cambridge, MA 02139",42.359244,-71.093139,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,7.227038856,8.686,drive
+46,46,"1740 Massachusetts Ave NW, Washington, DC 20036",38.90813,-77.040279,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.912886177,8.795,drive
+357,357,"Tempe, AZ 85281",33.436665,-111.940325,US,44,United States ,Sky Harbor International Airport    ,33.437269,-112.007788,6.749077952,9.04,drive
+57,57,"25 Massachusetts Ave NW, Washington, DC 20001",38.898505,-77.010475,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.089378404,9.125,drive
+93,93,"411 N Central Ave, Phoenix, AZ 85004",33.452957,-112.073451,US,44,United States ,Sky Harbor International Airport    ,33.437269,-112.007788,8.239177982,9.959,drive
+94,94,"411 N Central Ave, Phoenix, AZ 85004",33.452957,-112.073451,US,44,United States ,Sky Harbor International Airport    ,33.437269,-112.007788,8.239177982,9.959,drive
+112,112,"700 2nd St NE, Washington, DC 20002",38.89954,-77.003996,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.489975277,10.651,drive
+113,113,"700 2nd St NE, Washington, DC 20002",38.89954,-77.003996,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,8.489975277,10.651,drive
+346,346,"Somerville, Massachusetts, United States",42.387597,-71.099497,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,7.829229928,10.66,drive
+81,81,"360 Huntington Ave, Boston, MA 02115",42.339463,-71.088529,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,8.17321091,10.691,drive
+82,82,"360 Huntington Ave, Boston, MA 02115",42.339463,-71.088529,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,8.17321091,10.691,drive
+322,322,"Renton, Washington, United States",47.479693,-122.207922,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,8.295129287,11.608,drive
+53,53,"222 S Church St Ste. 500, Charlotte, NC 28202",35.227165,-80.846342,US,34,United States ,Charlotte Douglas International Airport    ,35.214403,-80.947315,9.596203908,11.887,drive
+186,186,"Chantilly, Virginia, United States",38.894279,-77.431099,US,85,"Washington, D.C.",Washington Dulles International Airport,38.953116,-77.456539,9.302139971,12.043,drive
+23,23,"1250 W Wisconsin Ave, Milwaukee, WI 53233",43.038966,-87.928042,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,15.85670011,12.099,drive
+187,187,"Charlotte, North Carolina, United States",35.227087,-80.843127,US,34,United States ,Charlotte Douglas International Airport    ,35.214403,-80.947315,9.880215165,12.213,drive
+368,368,"VÃ­a Perimetral 5, Guayaquil, Ecuador",-2.14589,-79.945836,EC,108,Ecuador,Aeropuerto Internacional José Joaquín De Olmedo,-2.148188,-79.886499,3436.237519,12.827,drive
+33,33,"1400 Townsend Dr, Houghton, MI 49931",47.115026,-88.5452,US,137,Thunder Bay,Thunder Bay International Airport,47.168708,-88.496306,225.3095517,13.54,drive
+34,34,"1400 Townsend Dr, Houghton, MI 49931",47.115026,-88.5452,US,137,Thunder Bay,Thunder Bay International Airport,47.168708,-88.496306,225.3095517,13.54,drive
+287,287,"Ottawa, ON, Canada",45.42153,-75.697193,CA-ON,127,National Capital Region,Ottawa International Airport,45.319212,-75.669165,15.88490001,14.091,drive
+288,288,"Ottawa, Ontario, CanadaÂ ",45.42153,-75.697193,CA-ON,127,National Capital Region,Ottawa International Airport,45.319212,-75.669165,15.88490001,14.091,drive
+20,20,"116 Albert St, Ottawa, ON K1P 5G3, Canada",45.421379,-75.696757,CA-ON,127,National Capital Region,Ottawa International Airport,45.319212,-75.669165,15.86100968,14.111,drive
+58,58,"2500 Chemin de Polytechnique, MontrÃ©al, QC H3T 1J4, Canada",45.504741,-73.614751,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,12.7131748,14.117,drive
+59,59,"2500 Chemin de Polytechnique, MontrÃ©al, QC H3T 1J4, Canada",45.504741,-73.614751,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,12.7131748,14.117,drive
+60,60,"2500 Chemin de Polytechnique, MontrÃ©al, QC H3T 1J4, Canada",45.504741,-73.614751,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,12.7131748,14.117,drive
+61,61,"2500 Chemin de Polytechnique, MontrÃ©al, QC H3T 1J4, Canada",45.504741,-73.614751,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,12.7131748,14.117,drive
+62,62,"2500 Chemin de Polytechnique, MontrÃ©al, QC H3T 1J4, Canada",45.504741,-73.614751,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,12.7131748,14.117,drive
+183,183,"Cambridge, Massachusetts, United States",42.373616,-71.109734,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,8.348519593,14.246,drive
+137,137,"Atlanta, Georgia, United States",33.748995,-84.387982,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,18.49134737,14.687,drive
+138,138,"Atlanta, Georgia, United StatesÂ ",33.748995,-84.387982,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,18.49134737,14.687,drive
+139,139,"Atlanta, Georgia, United StatesÂ ",33.748995,-84.387982,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,18.49134737,14.687,drive
+63,63,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+64,64,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+65,65,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+66,66,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+67,67,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+68,68,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+69,69,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+70,70,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+71,71,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+72,72,"2500 University Dr NW, Calgary, AB T2N 1N4, Canada",51.075545,-114.129754,CA-AB,125,Calgary Region,Calgary International Airport,51.121503,-114.007616,10.47008467,15.291,drive
+142,142,"Austin, Texas Metropolitan Area",30.122963,-97.611422,US,92,Austin,AustinÂBergstrom International Airport,30.197471,-97.666353,15.38266517,15.595,drive
+291,291,"Philadelphia, PA 19104",39.958359,-75.195393,US,80,Philadelphia,Philadelphia International Airport,39.87293,-75.243667,14.29216842,15.794,drive
+366,366,"Vancouver, BC V6T 1Z4, Canada",49.261045,-123.248794,CA-BC,123,Metro Vancouver,Vancouver International Airport,49.196691,-123.181512,17.86073267,15.871,drive
+367,367,"Vancouver, BC V6T 1Z4, Canada",49.261045,-123.248794,CA-BC,123,Metro Vancouver,Vancouver International Airport,49.196691,-123.181512,17.86073267,15.871,drive
+152,152,"Barcelona, Catalonia, Spain",41.385064,2.173404,ES,27,Spain  ,Aeropuerto de Barcelona-El Prat    ,41.297445,2.083294,12.6869202,16.001,drive
+103,103,"5959 Las Colinas Blvd, Irving, Texas, 75039, United States",32.890006,-96.949909,US,10,United States ,Dallas/Ft Worth International Airport    ,32.899809,-97.040335,8.825357499,16.529,drive
+217,217,"Ferdos Blvd, Iran",35.791118,51.316221,IR,58,Iran,"Mehrabad International Airport, Tehran, Iran",35.743532,51.271971,1364.837774,16.777,drive
+175,175,"Brooklyn, New York, United States",40.678178,-73.944158,US,20,United States ,John F. Kennedy International Airport   ,40.641311,-73.778139,14.69230808,17.01,drive
+3,3,"1 Chome-28-1 Tamazutsumi, Setagaya City, Tokyo 158-0087, Japan",35.597613,139.65054,JP,5,Japan Tokyo ,International (Haneda) Airport     ,35.549393,139.779839,14.24610406,17.182,drive
+355,355,"Swampscott, Massachusetts, United StatesÂ ",42.470944,-70.917556,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,18.54896925,17.323,drive
+286,286,"North Ave NW, Atlanta, GA 30332",33.771271,-84.389756,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,22.09156275,18.203,drive
+325,325,"Sacramento, California, United States",38.581572,-121.4944,US,100,Sacramento,Sacramento International Airport,38.695085,-121.590065,32.42440971,18.325,drive
+272,272,"Minneapolis, MN 55455",44.974156,-93.2342,US,57,United States ,Minneapolis/St Paul International Airport    ,44.884755,-93.222285,16.08790434,18.332,drive
+77,77,"281 W Lane Ave, Columbus, OH 43210",40.006103,-83.016536,US,110,Columbus,John Glenn Columbus International Airport,39.99994,-82.887177,11.06864428,18.408,drive
+78,78,"281 W Lane Ave, Columbus, OH 43210",40.006103,-83.016536,US,110,Columbus,John Glenn Columbus International Airport,39.99994,-82.887177,11.06864428,18.408,drive
+235,235,"Jamal Abdul Nasser St, Kuwait",29.351009,47.944331,KW,58,Kuwait,Kuwait International Airport,29.240446,47.968857,672.2965943,18.744,drive
+310,310,"Raleigh, NC 27695",35.785055,-78.681945,US,97,Raleigh,Raleigh-Durham International Airport,35.880079,-78.787996,17.19004399,19.38,drive
+311,311,"Raleigh, NC 27695",35.785055,-78.681945,US,97,Raleigh,Raleigh-Durham International Airport,35.880079,-78.787996,17.19004399,19.38,drive
+47,47,"1800 Elm Street Southeast, Minneapolis, MN 55414",44.983167,-93.225848,US,57,United States ,Minneapolis/St Paul International Airport    ,44.884755,-93.222285,17.64884832,19.448,drive
+273,273,"Montreal, Quebec, Canada",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+274,274,"Montreal, Quebec, Canada",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+275,275,"Montreal, Quebec, Canada",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+276,276,"Montreal, Quebec, Canada",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+277,277,"Montreal, Quebec, Canada",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+278,278,"Montreal, Quebec, Canada",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+279,279,"Montreal, Quebec, Canada",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+280,280,"Montreal, Quebec, CanadaÂ ",45.501689,-73.567256,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,15.92927869,19.554,drive
+232,232,"Houston, Texas, United States",29.760427,-95.369803,US,96,Houston,William P. Hobby Airport,29.645908,-95.276905,23.33220326,20.426,drive
+345,345,"Silver Spring, Maryland, United StatesÂ ",38.990666,-77.026088,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,22.00192987,20.452,drive
+348,348,"Spring, Texas, United States",30.07994,-95.41716,US,47,United States ,George Bush Intercontinental Airport    ,29.99022,-95.336783,18.61102293,20.567,drive
+177,177,"Buffalo, NY 14260",42.8711,-78.85932,US,120,Buffalo,Buffalo Niagara International Airport,42.939706,-78.729507,16.03849787,20.835,drive
+178,178,"Buffalo, NY 14260",42.8711,-78.85932,US,120,Buffalo,Buffalo Niagara International Airport,42.939706,-78.729507,16.03849787,20.835,drive
+179,179,"Buffalo, NY 14260",42.8711,-78.85932,US,120,Buffalo,Buffalo Niagara International Airport,42.939706,-78.729507,16.03849787,20.835,drive
+326,326,San Francisco Bay Area,37.827178,-122.291308,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,31.38394593,20.917,drive
+327,327,San Francisco Bay Area,37.827178,-122.291308,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,31.38394593,20.917,drive
+382,382,"Nihonbashikayabachï¿½, Chuo City, Tokyo, Japan",35.67947,139.779905,JP,5,Japan Tokyo ,International (Haneda) Airport     ,35.549393,139.779839,34.91598739,20.964,drive
+92,92,"405 Rue Sainte-Catherine Est, MontrÃ©al, QC H2L 2C4, Canada",45.514126,-73.560551,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,17.39246069,21.344,drive
+283,283,New York City Metropolitan Area,40.712776,-74.005954,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,15.29610297,21.715,drive
+284,284,New York City Metropolitan AreaÂ ,40.712776,-74.005954,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,15.29610297,21.715,drive
+285,285,"New York, New York, United States",40.712775,-74.005973,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,15.29452469,21.716,drive
+182,182,"Calle 15, Avenida 14., 1 km Sur de la BasÃ­lica de los Ãngeles., Provincia de Cartago, Cartago, 30101, Costa Rica",9.857247,-83.912313,CR,33,Costa Rica,"Tobías Bolaños International Airport, Aeropuerto, San José Province, San José, Costa Rica",9.799857,-84.044956,2361.999255,21.868,drive
+336,336,Seattle,47.606209,-122.332071,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,34.69732069,22.075,drive
+340,340,"Seattle, Washington, United States",47.606209,-122.332071,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,34.69732069,22.075,drive
+341,341,"Seattle, Washington, United States",47.606209,-122.332071,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,34.69732069,22.075,drive
+342,342,"Seattle, Washington, United States",47.606209,-122.332071,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,34.69732069,22.075,drive
+343,343,"Seattle, Washington, United States",47.606209,-122.332071,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,34.69732069,22.075,drive
+144,144,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+145,145,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+146,146,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+147,147,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+148,148,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+149,149,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+150,150,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+151,151,"Baltimore, MD 21218",39.332213,-76.600833,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,25.47228264,22.373,drive
+204,204,"Dearborn, Michigan, United States",42.32226,-83.176315,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,23.65263949,22.933,drive
+312,312,"Raleigh, North Carolina, United States",35.77959,-78.638179,US,97,Raleigh,Raleigh-Durham International Airport,35.880079,-78.787996,20.07543237,23.662,drive
+313,313,"Raleigh, North Carolina, United States",35.77959,-78.638179,US,97,Raleigh,Raleigh-Durham International Airport,35.880079,-78.787996,20.07543237,23.662,drive
+314,314,"Raleigh, North Carolina, United States",35.77959,-78.638179,US,97,Raleigh,Raleigh-Durham International Airport,35.880079,-78.787996,20.07543237,23.662,drive
+358,358,"Textiles, Atlanta, Georgia",33.812429,-84.420959,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,28.52496656,24.202,drive
+359,359,"Textiles, Atlanta, Georgia",33.812429,-84.420959,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,28.52496656,24.202,drive
+158,158,"Berkeley, CA",37.871523,-122.273042,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,40.27039318,24.324,drive
+159,159,"Berkeley, CA",37.871523,-122.273042,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,40.27039318,24.324,drive
+380,380,"Wyandotte, Michigan",42.214206,-83.149924,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,17.00637745,24.92,drive
+303,303,"Portland, Oregon, United States",45.505106,-122.675026,US,90,Portland,Portland International Airport,45.589769,-122.595094,15.81212473,25.564,drive
+304,304,"Portland, Oregon, USA",45.505106,-122.675026,US,90,Portland,Portland International Airport,45.589769,-122.595094,15.81212473,25.564,drive
+305,305,"Portland, Oregon, USA",45.505106,-122.675026,US,90,Portland,Portland International Airport,45.589769,-122.595094,15.81212473,25.564,drive
+306,306,"Portland, Oregon, USA",45.505106,-122.675026,US,90,Portland,Portland International Airport,45.589769,-122.595094,15.81212473,25.564,drive
+181,181,"Cairo University Rd, 12613, Egypt",30.022765,31.20732,EG,60,Egypt,Cairo International Airport,30.112831,31.397602,1340.507924,25.735,drive
+52,52,"222 Catoctin Cir SE, Leesburg, VA 20175",39.109959,-77.556523,US,85,"Washington, D.C.",Washington Dulles International Airport,38.953116,-77.456539,25.36634257,25.824,drive
+121,121,"9700 S Cass Ave, Lemont, IL 60439",41.71298,-87.960781,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,21.68769485,26.821,drive
+122,122,"9700 S Cass Ave, Lemont, IL 60439",41.71298,-87.960781,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,21.68769485,26.821,drive
+123,123,"9700 S Cass Ave, Lemont, IL 60439",41.71298,-87.960781,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,21.68769485,26.821,drive
+124,124,"9700 S Cass Ave, Lemont, IL 60439",41.71298,-87.960781,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,21.68769485,26.821,drive
+125,125,"9700 S Cass Ave, Lemont, IL 60439",41.71298,-87.960781,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,21.68769485,26.821,drive
+126,126,"9700 S Cass Ave, Lemont, IL 60439",41.71298,-87.960781,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,21.68769485,26.821,drive
+4,4,"1 Cyclotron Rd, Berkeley, CA 94720",37.875985,-122.250014,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,39.81487557,26.879,drive
+5,5,"1 Cyclotron Rd, Berkeley, CA 94720",37.875985,-122.250014,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,39.81487557,26.879,drive
+6,6,"1 Cyclotron Rd, Berkeley, CA 94720",37.875985,-122.250014,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,39.81487557,26.879,drive
+7,7,"1 Cyclotron Rd, Berkeley, CA 94720",37.875985,-122.250014,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,39.81487557,26.879,drive
+8,8,"1 Cyclotron Rd, Berkeley, CA 94720",37.875985,-122.250014,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,39.81487557,26.879,drive
+9,9,"1 Cyclotron Road, Berkeley, CA 94720 USA",37.875985,-122.250014,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,39.81487557,26.879,drive
+205,205,"Decatur, Georgia, United States",33.774828,-84.296312,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,25.82366719,26.883,drive
+108,108,"633 Clark St, Evanston, IL 60208",42.050627,-87.679727,US,6,United States ,O'Hare International Airport     ,41.98028,-87.908998,22.71590222,27.764,drive
+109,109,"633 Clark St, Evanston, IL 60208",42.050627,-87.679727,US,6,United States ,O'Hare International Airport     ,41.98028,-87.908998,22.71590222,27.764,drive
+110,110,"633 Clark St, Evanston, IL 60208",42.050627,-87.679727,US,6,United States ,O'Hare International Airport     ,41.98028,-87.908998,22.71590222,27.764,drive
+337,337,"Seattle, WA 98195",47.650888,-122.308402,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,43.043935,27.891,drive
+338,338,"Seattle, WA 98195",47.650888,-122.308402,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,43.043935,27.891,drive
+339,339,"Seattle, WA 98195",47.650888,-122.308402,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,43.043935,27.891,drive
+293,293,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+294,294,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+295,295,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+296,296,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+297,297,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+298,298,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+299,299,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+300,300,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+301,301,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+302,302,"Pittsburgh, Pennsylvania, United States",40.440625,-79.995886,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,21.39126586,27.921,drive
+315,315,"Rapenburg 70, 2311 EZ Leiden, Netherlands",52.156662,4.486759,NL,12,Netherlands  ,Amsterdam Airport Schiphol     ,52.310539,4.768274,27.61961804,28.559,rail
+252,252,"Los Angeles, CA 90007",34.029511,-118.28482,US,3,United States ,Los Angeles International Airport    ,33.941589,-118.40853,18.8905063,28.658,drive
+230,230,Greater Minneapolis-St. Paul Area,44.97407,-93.024049,US,57,United States ,Minneapolis/St Paul International Airport    ,44.884755,-93.222285,21.92934857,28.896,drive
+21,21,"116 St & 85 Ave, Edmonton, AB T6G 2R3, Canada",53.523219,-113.526319,CA-AB,126,Edmonton Metropolitan Region,Edmonton International Airport,53.305437,-113.577381,42.05370778,28.959,drive
+22,22,"116 St & 85 Ave, Edmonton, AB T6G 2R3, Canada",53.523219,-113.526319,CA-AB,126,Edmonton Metropolitan Region,Edmonton International Airport,53.305437,-113.577381,42.05370778,28.959,drive
+335,335,"SÃ£o Paulo, Brazil",-23.55052,-46.633309,BR,52,Brazil  ,Guarulhos International Airport     ,-23.430573,-46.473043,21.41176637,29.187,drive
+251,251,"London, England, United Kingdom",51.507351,-0.127758,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,26.36570982,29.34,rail
+111,111,"6406 Ivy Ln #350, Greenbelt, MD 20770",39.008927,-76.895245,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,28.86541089,30.019,drive
+282,282,"Muskego, WI",42.905848,-88.138978,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,21.17463892,30.303,drive
+228,228,Greater Chicago Area,41.743507,-88.011847,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,22.97844104,30.356,drive
+229,229,Greater Chicago Area,41.743507,-88.011847,US,88,Chicago,Chicago Midway International Airport,41.786776,-87.752188,22.97844104,30.356,drive
+95,95,"4200 Fifth Ave, Pittsburgh, PA 15260",40.44439,-79.953413,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,24.63066382,31.444,drive
+96,96,"4200 Fifth Ave, Pittsburgh, PA 15260",40.44439,-79.953413,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,24.63066382,31.444,drive
+157,157,"Beltsville, Maryland, United States",39.034832,-76.907474,US,82,Baltimore,Baltimore/Washington International Airport,39.177404,-76.668392,32.05594184,31.834,drive
+99,99,"5000 Forbes Ave, Pittsburgh, PA 15213",40.444165,-79.943372,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,25.45505486,32.761,drive
+379,379,"Wilmington, Delaware, United StatesÂ ",39.744655,-75.548391,US,80,Philadelphia,Philadelphia International Airport,39.87293,-75.243667,34.75505008,33.222,drive
+347,347,Spain,40.463667,-3.74922,ES,22,Spain  ,Aeropuerto de Adolfo SuÃ¡rez Madrid-Barajas   ,40.498332,-3.567598,17.24888981,33.815,drive
+194,194,"College Park, MD 20742",38.990849,-76.944141,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,24.19571364,33.976,drive
+195,195,"College Park, MD 20742",38.990849,-76.944141,US,86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.040232,24.19571364,33.976,drive
+12,12,"1 Shields Ave, Davis, CA 95616",38.538728,-121.753082,US,100,Sacramento,Sacramento International Airport,38.695085,-121.590065,31.07085218,34.07,drive
+328,328,"San Francisco, California, United StatesÂ ",37.774929,-122.419415,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,31.71859062,34.849,drive
+250,250,"Loma Linda, California",34.048347,-117.261153,US,117,Ontario,Ontario International Airport,34.060307,-117.597893,36.38622621,34.886,drive
+143,143,"Av. Brigadeiro Faria Lima, 3.477 14ÃÂº Andar, Sao Paulo,Brazil",-23.586715,-46.68192,BR,52,Brazil  ,Guarulhos International Airport     ,-23.430573,-46.473043,27.89010132,35.287,drive
+203,203,"Davis, California, United States",38.544907,-121.740517,US,100,Sacramento,Sacramento International Airport,38.695085,-121.590065,29.86679404,36.277,drive
+316,316,"Redmond, Washington, United States",47.673988,-122.121512,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,41.55497383,37.303,drive
+317,317,"Redmond, Washington, United States",47.673988,-122.121512,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,41.55497383,37.303,drive
+318,318,"Redmond, Washington, United StatesÂ ",47.673988,-122.121512,US,29,United States ,Seattle-Tacoma International Airport     ,47.45025,-122.308817,41.55497383,37.303,drive
+360,360,"The Historic Baltic Building, 137 Park Place, Suite 204, Point Richmond, CA, 94801",37.92633,-122.38489,US,99,Oakland,Oakland International Airport,37.712569,-122.219743,60.95290454,37.832,drive
+105,105,"626 Wallace Rd, Pittsburgh, PA 15236",40.299481,-79.976794,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,36.50434493,41.466,drive
+106,106,"626 Wallace Rd, Pittsburgh, PA 15236",40.299481,-79.976794,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,36.50434493,41.466,drive
+107,107,"626 Wallace Rd, Pittsburgh, PA 15236",40.299481,-79.976794,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,36.50434493,41.466,drive
+321,321,"RÃ©gion de Paris, France",48.84992,2.637041,RER / FR,9,France  ,AÃ©roport de Paris-Charles de Gaulle   ,49.009674,2.547966,19.35099681,41.467,rail
+249,249,"Libertyville, Illinois, United States",42.283079,-87.95313,US,6,United States ,O'Hare International Airport     ,41.98028,-87.908998,52.05377971,42.158,drive
+98,98,"500 S State St, Ann Arbor, MI 48109",42.276254,-83.741244,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,32.88780785,42.175,drive
+218,218,"Ferndale, Michigan, United States",42.460592,-83.134648,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,45.35960468,42.874,drive
+131,131,"Ann Arbor, Michigan, United States",42.280826,-83.743038,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,33.22036278,42.878,drive
+207,207,"Denver, Colorado",39.739236,-104.990251,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,32.48030324,43.084,drive
+208,208,"Denver, Colorado, United States",39.739236,-104.990251,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,32.48030324,43.084,drive
+365,365,"Utrecht, Utrecht, Netherlands",52.090737,5.12142,NL,12,Netherlands  ,Amsterdam Airport Schiphol     ,52.310539,4.768274,37.62863581,45.201,rail
+231,231,Greater Pittsburgh Region,40.356509,-79.91927,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,33.24013461,45.319,drive
+79,79,"29400 Lakeland Blvd, Wickliffe, Ohio, 44092, United States",41.615028,-81.473634,US,105,Cleveland,Cleveland Hopkins International Airport,41.405799,-81.853867,48.41240368,45.867,drive
+184,184,"Carrer InnovaciÃ³, 2, 08225 Terrassa, Barcelona, Spain",41.59808,2.010646,ES,27,Spain  ,Aeropuerto de Barcelona-El Prat    ,41.297445,2.083294,34.11285514,46.094,drive
+180,180,"Butanta, SÃ£o Paulo - State of SÃ£o Paulo, Brazil",-23.563487,-46.72101,BR,52,Brazil  ,Guarulhos International Airport     ,-23.430573,-46.473043,29.42348618,47.289,drive
+198,198,"Corona, California, United States",33.875293,-117.566438,US,102,Orange County,John Wayne Airport,33.67619,-117.867476,43.55400368,47.547,drive
+14,14,"100 Bureau Drive, Gaithersburg, MD 20899",39.14446,-77.216469,US,85,"Washington, D.C.",Washington Dulles International Airport,38.953116,-77.456539,38.29595309,52.948,drive
+334,334,"Santa Cruz, California, United States",36.974117,-122.030796,US,95,San Jose,Norman Y. Mineta San JosÃ© International Airport,37.363947,-121.928938,85.91923185,54.385,drive
+206,206,Denver Metropolitan Area,39.514285,-104.845462,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.4587052,55.151,drive
+224,224,Georgia Kennesaw,34.023434,-84.61549,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,65.19223465,57.294,drive
+226,226,"Golden, Colorado, United States",39.755543,-105.2211,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,48.39365019,58.264,drive
+39,39,"15013 Denver W Pkwy, Golden, CO 80401",39.740726,-105.168615,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,45.01410085,58.618,drive
+40,40,"15013 Denver W Pkwy, Golden, CO 80401",39.740726,-105.168615,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,45.01410085,58.618,drive
+214,214,"Fayetteville, AR 72701",35.998093,-94.089991,US,94,United States ,Northwest Arkansas National Airport,36.278663,-94.306483,583.3791948,58.907,drive
+215,215,"Fayetteville, AR 72701",35.998093,-94.089991,US,94,United States ,Northwest Arkansas National Airport,36.278663,-94.306483,583.3791948,58.907,drive
+216,216,"Fayetteville, AR 72701",35.998093,-94.089991,US,94,United States ,Northwest Arkansas National Airport,36.278663,-94.306483,583.3791948,58.907,drive
+36,36,"1500 Illinois St, Golden, CO 80401",39.750859,-105.223869,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,48.81758785,58.978,drive
+37,37,"1500 Illinois St, Golden, CO 80401",39.750859,-105.223869,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,48.81758785,58.978,drive
+38,38,"1500 Illinois St, Golden, CO 80401",39.750859,-105.223869,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,48.81758785,58.978,drive
+193,193,"Cleveland/Akron, Ohio Area",41.09545,-81.588758,US,105,Cleveland,Cleveland Hopkins International Airport,41.405799,-81.853867,53.82018707,60.753,drive
+233,233,India,20.593684,78.96288,IN,41,India  ,Dr. Babasaheb Ambedkar International Airport,21.090667,79.051494,668.6216369,61.352,drive
+43,43,"16362 W. Briarwood Ct., Olathe, KS 66062",38.877714,-94.774397,US,101,Kansas City,Kansas City International Airport,39.303586,-94.70926,77.39195845,62.118,drive
+247,247,"Ledgewood, NJ",40.883677,-74.657272,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,48.08555668,63.673,drive
+267,267,Miami-Fort Lauderdale Area,26.301392,-80.632692,US,79,Fort Lauderdale,Fort LauderdaleÂHollywood International Airport,26.074234,-80.150602,58.7883543,65.929,drive
+132,132,"Annandale, New Jersey, United States",40.640935,-74.881278,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,61.95024781,66.501,drive
+41,41,"1600 Washington Ave, Conway, AR 72032",35.099532,-92.440677,US,91,United States ,Bill and Hillary Clinton National Airport,34.904255,-92.470822,552.0819786,69.558,drive
+42,42,"1600 Washington Ave, Conway, AR 72032",35.099532,-92.440677,US,91,United States ,Bill and Hillary Clinton National Airport,34.904255,-92.470822,552.0819786,69.558,drive
+166,166,"Boulder, Colorado, United States",40.014986,-105.270546,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.8338606,70.701,drive
+167,167,"Boulder, Colorado, United States",40.014986,-105.270546,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.8338606,70.701,drive
+168,168,"Boulder, Colorado, United States",40.014986,-105.270546,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.8338606,70.701,drive
+169,169,"Boulder, Colorado, United States",40.014986,-105.270546,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.8338606,70.701,drive
+170,170,"Boulder, Colorado, United States",40.014986,-105.270546,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.8338606,70.701,drive
+171,171,"Boulder, Colorado, United States",40.014986,-105.270546,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.8338606,70.701,drive
+172,172,"Boulder, Colorado, United States",40.014986,-105.270546,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,66.8338606,70.701,drive
+234,234,"Irwin, Pennsylvania, United States",40.324514,-79.701155,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,50.99477972,71.013,drive
+238,238,"Katy, Texas, United States",29.785777,-95.824509,US,47,United States ,George Bush Intercontinental Airport    ,29.99022,-95.336783,58.8123022,71.41,drive
+48,48,"200 University Ave W, Waterloo, ON N2L 3G1, Canada",43.472979,-80.540103,CA-ON,139,Hamilton,John C. Munro Hamilton International Airport,43.163226,-79.926573,67.65649409,75.798,drive
+351,351,"Star Prairie Town, Wisconsin, United StatesÂ ",45.176615,-92.577833,US,57,United States ,Minneapolis/St Paul International Airport    ,44.884755,-93.222285,71.45138214,80.106,drive
+361,361,"Toledo, Ohio, United States",41.652805,-83.537867,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,95.39990423,80.596,drive
+362,362,"Toledo, Ohio, United States",41.652805,-83.537867,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,95.39990423,80.596,drive
+54,54,"2300 Harmon Rd, Auburn Hills, Michigan, 48326, United States",42.698954,-83.249513,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,80.8625376,80.61,drive
+349,349,"Springboro Ohio, United States",39.552281,-84.233272,US,109,Cincinnati,Cincinnati/Northern Kentucky International Airport,39.053275,-84.663017,92.6938616,85.906,drive
+90,90,"4 Sycamore Creek Drive, Suite A, Springboro, OH 45066",39.563648,-84.231724,US,109,Cincinnati,Cincinnati/Northern Kentucky International Airport,39.053275,-84.663017,94.48952197,86.264,drive
+209,209,Detroit Metropolitan Area,42.810536,-83.079087,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,102.2416606,88.737,drive
+307,307,"Providence County, Rhode Island, United States",41.888158,-71.477429,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,86.56464563,88.81,drive
+83,83,"37 ME-236 #112, Kittery, ME 03904",43.110801,-70.75054,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,116.9533083,92.053,drive
+84,84,"37 ME-236 #112, Kittery, ME 03904",43.110801,-70.75054,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,116.9533083,92.053,drive
+85,85,"37 ME-236 #112, Kittery, ME 03904",43.110801,-70.75054,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,116.9533083,92.053,drive
+86,86,"37 ME-236 #112, Kittery, ME 03904",43.110801,-70.75054,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,116.9533083,92.053,drive
+87,87,"37 ME-236 #112, Kittery, ME 03904",43.110801,-70.75054,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,116.9533083,92.053,drive
+88,88,"37 ME-236 #112, Kittery, ME 03904",43.110801,-70.75054,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,116.9533083,92.053,drive
+239,239,"Kohler, Wisconsin, United States",43.739162,-87.781754,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,136.405004,98.278,drive
+240,240,"Kohler, Wisconsin, United States",43.739162,-87.781754,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,136.405004,98.278,drive
+241,241,"Kohler, Wisconsin, United States",43.739162,-87.781754,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,136.405004,98.278,drive
+242,242,"Kohler, Wisconsin, United States",43.739162,-87.781754,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,136.405004,98.278,drive
+243,243,"Kohler, Wisconsin, United States",43.739162,-87.781754,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,136.405004,98.278,drive
+45,45,"17 Watson Hall, Easton, PA, 18042",40.698721,-75.211763,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,88.76889313,99.002,drive
+27,27,"1400 R St, Lincoln, NE 68588",40.817663,-96.700037,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,107.8641052,100.626,drive
+28,28,"1400 R St, Lincoln, NE 68588",40.817663,-96.700037,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,107.8641052,100.626,drive
+29,29,"1400 R St, Lincoln, NE 68588",40.817663,-96.700037,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,107.8641052,100.626,drive
+30,30,"1400 R St, Lincoln, NE 68588",40.817663,-96.700037,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,107.8641052,100.626,drive
+31,31,"1400 R St, Lincoln, NE 68588",40.817663,-96.700037,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,107.8641052,100.626,drive
+32,32,"1400 R St, Lincoln, NE 68588",40.817663,-96.700037,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,107.8641052,100.626,drive
+10,10,"1 Lomb Memorial Dr, Rochester, NY 14623",43.083925,-77.674614,US,120,Buffalo,Buffalo Niagara International Airport,42.939706,-78.729507,92.06571985,101.642,drive
+11,11,"1 Lomb Memorial Dr, Rochester, NY 14623",43.083925,-77.674614,US,120,Buffalo,Buffalo Niagara International Airport,42.939706,-78.729507,92.06571985,101.642,drive
+211,211,"Dover, New Hampshire, United StatesÂ ",43.197862,-70.87367,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,127.1713045,104.067,drive
+19,19,"11 Lois Ln, York, ME 03909",43.183446,-70.608591,US,53,United States ,Logan International Airport     ,42.365613,-71.00956,131.7449616,107.558,drive
+128,128,Albuquerque-Santa Fe Metropolitan Area,35.686975,-105.937799,US,119,Albuquerque,Albuquerque International Sunport,35.043333,-106.612909,132.838825,108.321,drive
+356,356,SwedenÂ ,60.128161,18.643501,SE,12,Sweden,Stockholm Arlanda Airport,59.649765,17.921592,1283.369737,109.205,rail
+324,324,"ROCHESTER, NEW YORK, 14610, United States",43.142994,-77.544745,US,120,Buffalo,Buffalo Niagara International Airport,42.939706,-78.729507,105.8161415,109.876,drive
+219,219,"Fort Collins, CO 80523",40.570263,-105.090346,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,153.5848848,113.407,drive
+220,220,"Fort Collins, CO 80523",40.570263,-105.090346,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,153.5848848,113.407,drive
+221,221,"Fort Collins, CO 80523",40.570263,-105.090346,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,153.5848848,113.407,drive
+104,104,"610 Purdue Mall, West Lafayette, IN 47907",40.428246,-86.914391,US,107,Indianapolis,Indianapolis International Airport,39.716859,-86.295595,130.2563139,113.894,drive
+222,222,"Fort Collins, Colorado, United States",40.58526,-105.084423,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,156.2508778,114.667,drive
+188,188,"Chatham-Kent, Ontario, CanadaÂ ",42.404803,-82.191038,CA-ON,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,103.2140149,119.09,drive
+76,76,"27 Memorial Dr W, Bethlehem, PA 18015",40.606835,-75.380169,US,43,United States ,Newark Liberty International Airport    ,40.689531,-74.174462,105.6453843,119.545,drive
+281,281,"Morgantown, WV 26506",39.654181,-79.959489,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,134.8417848,124.12,drive
+153,153,"Bavaria, Germany",48.790447,11.497889,DE,38,Germany  ,Munich Airport      ,48.353697,11.775111,55.55930219,128.95,rail
+154,154,"Bavaria, GermanyÂ ",48.790447,11.497889,DE,38,Germany  ,Munich Airport      ,48.353697,11.775111,55.55930219,128.95,rail
+135,135,"Athens, GA 30602",33.954258,-83.374932,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,112.668562,131.636,drive
+136,136,"Athens, GA 30602",33.954258,-83.374932,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,112.668562,131.636,drive
+248,248,"Lexington, KY 40506",38.019614,-84.499449,US,109,Cincinnati,Cincinnati/Northern Kentucky International Airport,39.053275,-84.663017,172.1999856,132.862,drive
+253,253,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+254,254,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+255,255,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+256,256,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+257,257,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+258,258,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+259,259,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+260,260,"Madison, WI",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+261,261,"Madison, Wisconsin, United States",43.073052,-89.40123,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,124.3178211,138.581,drive
+262,262,"Madison, Wisconsin, United States, 53726",43.069034,-89.424563,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,126.0890892,140.033,drive
+263,263,"Madison, Wisconsin, United States, 53726",43.069034,-89.424563,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,126.0890892,140.033,drive
+264,264,"Madison, Wisconsin, United States, 53726",43.069034,-89.424563,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,126.0890892,140.033,drive
+265,265,"Madison, Wisconsin, United States, 53726",43.069034,-89.424563,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,126.0890892,140.033,drive
+266,266,"Madison, Wisconsin, United States, 53726",43.069034,-89.424563,US,114,Milwaukee,Milwaukee Mitchell International Airport,42.947553,-87.896646,126.0890892,140.033,drive
+0,0,"Â Michigan State University, East Lansing, MI 48824, USA",42.724305,-84.479605,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,121.7981765,141.471,drive
+333,333,"Santa Barbara, California",34.420831,-119.69819,US,116,Burbank,Hollywood Burbank Airport,34.198312,-118.357404,171.8259169,142.992,drive
+133,133,"Antwerp, Flemish Region, Belgium",51.219448,4.402464,BE,12,Netherlands  ,Amsterdam Airport Schiphol     ,52.310539,4.768274,124.208149,149.388,rail
+308,308,"Pune, Maharashtra, India",18.52043,73.856744,IN,41,India  ,Chhatrapati Shivaji International Airport    ,19.08956,72.865614,138.5705359,150.842,drive
+155,155,"Beaumont, Texas",30.080174,-94.126556,US,47,United States ,George Bush Intercontinental Airport    ,29.99022,-95.336783,117.3274173,153.171,drive
+156,156,"Beaumont, Texas",30.080174,-94.126556,US,47,United States ,George Bush Intercontinental Airport    ,29.99022,-95.336783,117.3274173,153.171,drive
+201,201,"Corvallis, Oregon, United States",44.564566,-123.262044,US,90,Portland,Portland International Airport,45.589769,-122.595094,197.8794648,153.494,drive
+202,202,"Corvallis, Oregon, United States",44.564566,-123.262044,US,90,Portland,Portland International Airport,45.589769,-122.595094,197.8794648,153.494,drive
+199,199,"Corvallis, OR 97331",44.564272,-123.278594,US,90,Portland,Portland International Airport,45.589769,-122.595094,197.4951184,155.842,drive
+200,200,"Corvallis, OR 97331",44.564272,-123.278594,US,90,Portland,Portland International Airport,45.589769,-122.595094,197.4951184,155.842,drive
+97,97,"5 Research Dr, Greenville, SC 29607",34.814367,-82.32713,US,34,United States ,Charlotte Douglas International Airport    ,35.214403,-80.947315,145.6865875,156.35,drive
+212,212,"E Park Terrace, Southampton SO14 0YN, United Kingdom",50.908388,-1.40156,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,98.56801477,158.308,rail
+213,213,"E Park Terrace, Southampton SO14 0YN, United Kingdom",50.908388,-1.40156,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,98.56801477,158.308,rail
+101,101,"550 University Ave, Charlottetown, PE C1A 4P3, Canada",46.256036,-63.137495,CA-PE,141,Greater Moncton,Greater Moncton RomÃ©o LeBlanc International Airport,46.116181,-64.688447,129.6119632,158.788,drive
+102,102,"550 University Ave, Charlottetown, PE C1A 4P3, Canada",46.256036,-63.137495,CA-PE,141,Greater Moncton,Greater Moncton RomÃ©o LeBlanc International Airport,46.116181,-64.688447,129.6119632,158.788,drive
+329,329,"Santa Barbara, CA 93106",34.413587,-119.849698,US,116,Burbank,Hollywood Burbank Airport,34.198312,-118.357404,186.5655932,160.434,drive
+330,330,"Santa Barbara, CA 93106",34.413587,-119.849698,US,116,Burbank,Hollywood Burbank Airport,34.198312,-118.357404,186.5655932,160.434,drive
+331,331,"Santa Barbara, CA 93106",34.413587,-119.849698,US,116,Burbank,Hollywood Burbank Airport,34.198312,-118.357404,186.5655932,160.434,drive
+332,332,"Santa Barbara, CA 93106",34.413587,-119.849698,US,116,Burbank,Hollywood Burbank Airport,34.198312,-118.357404,186.5655932,160.434,drive
+91,91,"400 Bizzell St, College Station, TX 77843",30.618675,-96.336455,US,92,Austin,AustinÂBergstrom International Airport,30.197471,-97.666353,145.7432362,167.483,drive
+185,185,"Centre sportif Yvon-Lamarche (Campus principal, 2500 Boulevard de l'UniversitÃ©, Sherbrooke, QC J1K 2R1, Canada",45.376868,-71.930584,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,143.7669431,167.628,drive
+173,173,"Breckenridge, Colorado",39.481654,-106.038352,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,128.0493652,168.038,drive
+174,174,"Breckenridge, Colorado",39.481654,-106.038352,US,16,United States ,Denver International Airport     ,39.856096,-104.673738,128.0493652,168.038,drive
+344,344,"Sherbrooke, Quebec, Canada",45.404172,-71.892911,CA-QC,124,Greater Montreal,MontrealâTrudeau International Airport,45.465685,-73.745481,146.9909764,171.571,drive
+140,140,"Auburn, AL 36849",32.590956,-85.492979,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,204.5911443,172.043,drive
+141,141,"Auburn, AL 36849",32.590956,-85.492979,US,1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.640728,-84.4277,204.5911443,172.043,drive
+364,364,"Tucson, AZ 85721",32.233284,-110.948801,US,44,United States ,Sky Harbor International Airport    ,33.437269,-112.007788,308.3714816,180.36,drive
+80,80,"3 Bailey Dr, Fredericton, NB E3B 5A3, Canada",45.948258,-66.641318,CA-NB,141,Greater Moncton,Greater Moncton RomÃ©o LeBlanc International Airport,46.116181,-64.688447,162.6238207,184.447,drive
+196,196,"Columbia, MO 65211",38.933139,-92.373804,US,94,St. Louis,St. Louis Lambert International Airport,38.74994,-90.374819,177.120712,188.05,drive
+197,197,"Columbia, MO 65211",38.933139,-92.373804,US,94,St. Louis,St. Louis Lambert International Airport,38.74994,-90.374819,177.120712,188.05,drive
+176,176,"Brussels Region, BelgiumÂ ",50.850346,4.351721,BE,12,Netherlands  ,Amsterdam Airport Schiphol     ,52.310539,4.768274,165.1501754,197.702,rail
+191,191,"Claverton Down, Bath BA2 7AY, United Kingdom",51.379922,-2.332296,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,150.2694087,198.479,rail
+192,192,"Claverton Down, Bath BA2 7AY, United Kingdom",51.379922,-2.332296,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,150.2694087,198.479,rail
+13,13,"1 South, University of Bath, Claverton Down Bath BA2 7AY, United Kingdom",51.378223,-2.326399,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,149.8161821,198.58,rail
+49,49,"200 W T. Weaver Boulevard, Asheville, NC 28804",35.612105,-82.563285,US,34,United States ,Charlotte Douglas International Airport    ,35.214403,-80.947315,157.0640918,199.897,drive
+189,189,"Chattanooga, Tennessee, United States",35.04563,-85.30968,US,91,Nashville,Nashville International Airport,36.126317,-86.677371,216.8818096,207.744,drive
+190,190,"Chattanooga, Tennessee, United States",35.04563,-85.30968,US,91,Nashville,Nashville International Airport,36.126317,-86.677371,216.8818096,207.744,drive
+18,18,"105 Sikes Hall, Clemson, SC 29634",34.679339,-82.835136,US,34,United States ,Charlotte Douglas International Airport    ,35.214403,-80.947315,198.3898093,211.65,drive
+268,268,"Midland, Michigan, United States",43.615583,-84.247212,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,239.5453611,218.8,drive
+269,269,"Midland, Michigan, United States",43.615583,-84.247212,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,239.5453611,218.8,drive
+270,270,"Midland, Michigan, United States",43.615583,-84.247212,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,239.5453611,218.8,drive
+271,271,"Midland, Michigan, United States",43.615583,-84.247212,US,78,Detroit,Detroit Metropolitan Airport,42.216249,-83.355364,239.5453611,218.8,drive
+117,117,"825 SW Irvinedale Dr, Ankeny, IA 50023",41.720916,-93.62938,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,200.0609452,235.221,drive
+118,118,"825 SW Irvinedale Dr, Ankeny, IA 50023",41.720916,-93.62938,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,200.0609452,235.221,drive
+236,236,"Johnson City, Tennessee, United States",36.31344,-82.353473,US,34,United States ,Charlotte Douglas International Airport    ,35.214403,-80.947315,212.4742573,236.197,drive
+237,237,"Johnson City, Tennessee, United States",36.31344,-82.353473,US,34,United States ,Charlotte Douglas International Airport    ,35.214403,-80.947315,212.4742573,236.197,drive
+352,352,"State College, PA 16801",40.793395,-77.860001,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,212.3657571,245.108,drive
+353,353,"State College, PA 16801",40.793395,-77.860001,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,212.3657571,245.108,drive
+354,354,"State College, PA 16801",40.793395,-77.860001,US,106,Pittsburgh,Pittsburgh International Airport,40.491921,-80.235223,212.3657571,245.108,drive
+1,1,"1 Bethel Valley Rd, Oak Ridge, TN 37830",35.966994,-84.250536,US,91,Nashville,Nashville International Airport,36.126317,-86.677371,219.5790876,260.76,drive
+2,2,"1 Bethel Valley Rd, Oak Ridge, TN 37830",35.966994,-84.250536,US,91,Nashville,Nashville International Airport,36.126317,-86.677371,219.5790876,260.76,drive
+129,129,"Ames, IA 50011",42.028866,-93.648031,US,121,Omaha,Eppley Airfield,41.301873,-95.893741,222.912556,279.464,drive
+89,89,"3988 Short St #100, San Luis Obispo, CA 93401",35.244402,-120.672275,US,116,Burbank,Hollywood Burbank Airport,34.198312,-118.357404,417.8080823,289.176,drive
+292,292,"Piazza Martiri della LibertÃ , 33, 56127 Pisa PI, Italy",43.719819,10.402931,IT,51,Italy  ,Aeroporto di Roma-Fiumicino     ,41.799887,12.246238,278.4546272,329.535,drive
+289,289,"Oxford Rd, Manchester M13 9PL, United Kingdom",53.46673,-2.234176,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,261.3894734,334.105,rail
+290,290,"Pensacola, Florida, United States",30.421309,-87.216915,US,98,New Orleans,Louis Armstrong New Orleans International Airport,29.991091,-90.25923,302.7596953,342.399,drive
+323,323,"Richland, Washington, United States",46.28042,-119.2752,US,90,Portland,Portland International Airport,45.589769,-122.595094,274.9193128,348.004,drive
+44,44,"168 College Ave, Orono, ME 04469",44.895567,-68.673553,US,133,Quebec City,QuÃ©bec City Jean Lesage International Airport,46.790733,-71.388601,330.0270007,380.179,drive
+381,381,"Zurich, Switzerland",47.376887,8.541694,CH,38,Germany  ,Munich Airport      ,48.353697,11.775111,287.2613023,387.937,rail
+225,225,"Glasgow, Scotland, United Kingdom",55.864237,-4.251806,GB,7,United Kingdom ,Manchester Airport  ,53.358806,-2.274919,565.5663736,391.911,rail
+350,350,"St James House, Accrington BB5 1LX, United Kingdom",53.750993,-2.367264,GB,7,United Kingdom ,Heathrow Airport      ,51.470022,-0.454296,293.5066563,394.161,rail
+24,24,"1340 Administration Ave, Fargo, ND 58105",46.891579,-96.800127,US,57,United States ,Minneapolis/St Paul International Airport    ,44.884755,-93.222285,473.1708925,397.004,drive
+25,25,"1340 Administration Ave, Fargo, ND 58105",46.891579,-96.800127,US,57,United States ,Minneapolis/St Paul International Airport    ,44.884755,-93.222285,473.1708925,397.004,drive
+26,26,"1340 Administration Ave, Fargo, ND 58105",46.891579,-96.800127,US,57,United States ,Minneapolis/St Paul International Airport    ,44.884755,-93.222285,473.1708925,397.004,drive
+369,369,"Via Zamboni, 33, 40126 Bologna BO, Italy",44.496878,11.352409,IT,51,Italy  ,Aeroporto di Roma-Fiumicino     ,41.799887,12.246238,317.2579393,414.304,drive
+309,309,"R. Gen. Canabarro, 485 - MaracanÃ£, Rio de Janeiro - RJ, 20271-204, Brazil",-22.912496,-43.224754,BR,52,Brazil  ,Guarulhos International Airport     ,-23.430573,-46.473043,339.4912473,415.657,drive
+130,130,"AmmonstraÃe 74, 01067 Dresden, Germany",51.048797,13.721129,DE,38,Germany  ,Munich Airport      ,48.353697,11.775111,332.0913797,445.78,drive
+319,319,"Reggio Emilia, Emilia-Romagna, Italy",44.698993,10.629686,IT,51,Italy  ,Aeroporto di Roma-Fiumicino     ,41.799887,12.246238,362.8369373,459.467,drive
+244,244,"Lausanne, Vaud, Switzerland",46.519653,6.632273,CH,15,Germany  ,Flughafen Frankfurt/Main      ,50.037933,8.562152,418.3083415,541.539,rail
+245,245,"Lausanne, Vaud, Switzerland",46.519653,6.632273,CH,15,Germany  ,Flughafen Frankfurt/Main      ,50.037933,8.562152,418.3083415,541.539,rail
+246,246,"Lausanne, Vaud, Switzerland",46.519653,6.632273,CH,15,Germany  ,Flughafen Frankfurt/Main      ,50.037933,8.562152,418.3083415,541.539,rail
+223,223,"Geneva, Geneva, Switzerland",46.204391,6.143158,CH,9,Germany  ,Flughafen Frankfurt/Main,50.037933,8.562152,440.9085351,589.538,rail
+376,376,"WattstraÃe 11, 13355 Berlin, Germany",52.541156,13.390913,DE,15,Germany  ,Flughafen Frankfurt/Main      ,50.037933,8.562152,461.4011985,636.844,rail
+377,377,"WattstraÃe 11, 13355 Berlin, Germany",52.541156,13.390913,DE,15,Germany  ,Flughafen Frankfurt/Main      ,50.037933,8.562152,461.4011985,636.844,rail
