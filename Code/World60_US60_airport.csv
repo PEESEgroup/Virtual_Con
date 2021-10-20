@@ -1,0 +1,125 @@
+Rank,Country,Airport,lat,long
+1,United States ,Hartsfield-Jackson Atlanta International Airport    ,33.6407282,-84.4277001
+2,China  ,Beijing Capital International Airport    ,40.0798573,116.6031121
+3,United States ,Los Angeles International Airport    ,33.9415889,-118.40853
+4,United Arab Emirates,Dubai International Airport     ,25.2531745,55.3656728
+5,Japan Tokyo ,International (Haneda) Airport     ,35.5493932,139.7798386
+6,United States ,O'Hare International Airport     ,41.98028,-87.9089979
+7,United Kingdom ,Heathrow Airport      ,51.4700223,-0.4542955
+8,China  ,Pudong International Airport     ,31.1443439,121.808273
+9,France  ,Aéroport de Paris-Charles de Gaulle   ,49.0096739,2.547966
+10,United States ,Dallas/Ft Worth International Airport    ,32.8998091,-97.0403352
+11,China  ,Guangzhou Bai Yun International Airport   ,23.3959079,113.3079699
+12,Netherlands  ,Amsterdam Airport Schiphol     ,52.3105386,4.7682744
+13,Hong Kong ,SAR Hong Kong International Airport   ,22.308047,113.9184808
+14,"Korea, Republic of",Incheon International Airport     ,37.4601908,126.4406957
+15,Germany  ,Flughafen Frankfurt/Main      ,50.0379326,8.5621518
+16,United States ,Denver International Airport     ,39.8560963,-104.6737376
+17,India  ,Indira Gandhi International Airport    ,28.5561624,77.0999578
+18,Singapore  ,Singapore Changi Airport     ,1.3644202,103.9915308
+19,Thailand  ,Suvarnabhumi International Airport     ,13.6899991,100.7501124
+20,United States ,John F. Kennedy International Airport   ,40.6413111,-73.7781391
+21,Malaysia  ,KL International Airport     ,2.734747,101.70511
+22,Spain  ,Aeropuerto de Adolfo Suárez Madrid-Barajas   ,40.4983322,-3.5675982
+23,United States ,San Francisco International Airport    ,37.6213129,-122.3789554
+24,China  ,Chengdu Shuangliu International Airport    ,30.567456,103.9492936
+25,Indonesia  ,Soekarno-Hatta International Airport     ,-6.1275282,106.6537058
+26,China  ,Shenzhen Baoan International Airport    ,22.636828,113.814606
+27,Spain  ,Aeropuerto de Barcelona-El Prat    ,41.297445,2.0832941
+28,Turkey  ,Istanbul International Airport     ,41.2599003,28.7427288
+29,United States ,Seattle-Tacoma International Airport     ,47.4502499,-122.3088165
+30,United States ,McCarran International Airport     ,36.0839998,-115.1537389
+31,United States ,Orlando International Airport     ,28.4311258,-81.3083315
+32,Canada Toronto ,Pearson International Airport     ,43.6777176,-79.6248197
+33,Mexico  ,Aeropuerto Internacional de la Ciudad de México Lic Benito Juárez,19.4360762,-99.0719083
+34,United States ,Charlotte Douglas International Airport    ,35.2144026,-80.9473146
+35,Russian  ,Federation Sheremetyevo International Airport    ,55.9736482,37.412503
+36,Chinese  ,Taipei Taiwan Taoyuan International Airport   ,25.0796514,121.234217
+37,China  ,Kunming International Airport     ,25.096559,102.9286198
+38,Germany  ,Munich Airport      ,48.3536972,11.775111
+39,Philippines  ,Ninoy Aquino International Airport    ,14.5122739,121.016508
+40,China  ,Xi'an-Xianyang International Airport     ,34.437111,108.7573294
+41,India  ,Chhatrapati Shivaji International Airport    ,19.0895595,72.8656144
+42,United Kingdom ,Gatwick Airport      ,51.1536621,-0.1820629
+43,United States ,Newark Liberty International Airport    ,40.6895314,-74.1744624
+44,United States ,Sky Harbor International Airport    ,33.4372686,-112.0077881
+45,United States ,Miami International Airport     ,25.7858556,-80.279058
+46,China  ,Hongqiao International Airport     ,31.192209,121.334297
+47,United States ,George Bush Intercontinental Airport    ,29.9902199,-95.3367827
+48,China  ,Chongqing Jiangbei International Airport    ,29.7191667,106.6416667
+49,Australia  ,Sydney International Airport     ,-33.9399228,151.1752764
+50,Japan  ,Narita International Airport     ,35.7719867,140.3928501
+51,Italy  ,Aeroporto di Roma-Fiumicino     ,41.7998868,12.2462384
+52,Brazil  ,Guarulhos International Airport     ,-23.4305731,-46.473043
+53,United States ,Logan International Airport     ,42.3656132,-71.0095602
+54,Thailand  ,Don Mueang International Airport    ,13.9132602,100.6041987
+55,Vietnam  ,Tan Son Nhat International Airport   ,10.8184631,106.6588245
+56,China  ,Hangzhou Xiaoshan International Airport    ,30.2359486,120.4388907
+57,United States ,Minneapolis/St Paul International Airport    ,44.8847554,-93.2222846
+58,Qatar  ,Hamad International Airport     ,25.2608759,51.6138417
+59,Australia  ,Melbourne Airport      ,28.1012659,-80.645078
+60,Saudi Arabia ,King Abulaziz International Airport    ,21.6620073,39.1733616
+78,Detroit,Detroit Metropolitan Airport,42.2162491,-83.3553642
+79,Fort Lauderdale,Fort LauderdaleHollywood International Airport,26.0742344,-80.1506022
+80,Philadelphia,Philadelphia International Airport,39.8729299,-75.2436673
+81,New York,LaGuardia Airport,40.7769271,-73.8739659
+82,Baltimore,Baltimore/Washington International Airport,39.1774042,-76.6683922
+83,Salt Lake City,Salt Lake City International Airport,40.7899404,-111.9790706
+84,San Diego,San Diego International Airport,32.7338006,-117.1933038
+85,"Washington, D.C.",Washington Dulles International Airport,38.9531162,-77.4565388
+86,"Washington, D.C.",Ronald Reagan Washington National Airport,38.851242,-77.0402315
+87,Tampa,Tampa International Airport,27.9771524,-82.5311382
+88,Chicago,Chicago Midway International Airport,41.7867759,-87.7521884
+89,Honolulu,Daniel K. Inouye International Airport,21.3245132,-157.9250736
+90,Portland,Portland International Airport,45.5897694,-122.5950942
+91,Nashville,Nashville International Airport,36.126317,-86.6773713
+92,Austin,AustinBergstrom International Airport,30.1974711,-97.6663529
+93,Dallas,Dallas Love Field,32.8481029,-96.8512063
+94,St. Louis,St. Louis Lambert International Airport,38.7499403,-90.374819
+95,San Jose,Norman Y. Mineta San José International Airport,37.3639472,-121.9289375
+96,Houston,William P. Hobby Airport,29.6459077,-95.2769054
+97,Raleigh,Raleigh-Durham International Airport,35.880079,-78.7879963
+98,New Orleans,Louis Armstrong New Orleans International Airport,29.9910905,-90.2592299
+99,Oakland,Oakland International Airport,37.7125689,-122.2197428
+100,Sacramento,Sacramento International Airport,38.6950854,-121.5900648
+101,Kansas City,Kansas City International Airport,39.3035862,-94.7092596
+102,Orange County,John Wayne Airport,33.6761901,-117.8674759
+103,Fort Myers,Southwest Florida International Airport[15],26.5337051,-81.7553083
+104,San Antonio,San Antonio International Airport,29.5311973,-98.4683484
+105,Cleveland,Cleveland Hopkins International Airport,41.4057985,-81.8538669
+106,Pittsburgh,Pittsburgh International Airport,40.4919208,-80.2352233
+107,Indianapolis,Indianapolis International Airport,39.7168593,-86.2955952
+108,San Juan,Luis Muñoz Marín International Airport,18.4372835,-66.0041299
+109,Cincinnati,Cincinnati/Northern Kentucky International Airport,39.0532746,-84.6630165
+110,Columbus,John Glenn Columbus International Airport,39.9999399,-82.8871767
+111,Kahului,Kahului Airport,20.894598,-156.4360744
+112,Jacksonville,Jacksonville International Airport,30.4940713,-81.6879368
+113,West Palm Beach,Palm Beach International Airport,26.6857475,-80.0928165
+114,Milwaukee,Milwaukee Mitchell International Airport,42.9475534,-87.896646
+115,Hartford,Bradley International Airport,41.9388735,-72.6860314
+116,Burbank,Hollywood Burbank Airport,34.1983122,-118.3574036
+117,Ontario,Ontario International Airport,34.0603068,-117.5978932
+118,Anchorage,Ted Stevens Anchorage International Airport,61.1758863,-149.9900792
+119,Albuquerque,Albuquerque International Sunport,35.0433333,-106.6129085
+120,Buffalo,Buffalo Niagara International Airport,42.9397059,-78.7295067
+121,Omaha,Eppley Airfield,41.3018733,-95.8937409
+122,Greater Toronto Area,Toronto Pearson International Airport,43.6777176,-79.6248197
+123,Metro Vancouver,Vancouver International Airport,49.1966913,-123.1815123
+124,Greater Montreal,Montreal–Trudeau International Airport,45.4656851,-73.7454814
+125,Calgary Region,Calgary International Airport,51.1215031,-114.0076156
+126,Edmonton Metropolitan Region,Edmonton International Airport,53.3054374,-113.5773808
+127,National Capital Region,Ottawa International Airport,45.319212,-75.6691652
+128,Winnipeg Capital Region,Winnipeg James Armstrong Richardson International Airport,49.9098283,-97.2365461
+129,Halifax,Halifax Stanfield International Airport,44.8864664,-63.5152964
+130,Toronto,Billy Bishop Toronto City Airport,43.6284819,-79.3959577
+131,Kelowna/Okanagan Valley,Kelowna International Airport,49.9569281,-119.3787305
+132,Greater Victoria,Victoria International Airport,48.6481032,-123.4286602
+133,Quebec City,Québec City Jean Lesage International Airport,46.7907327,-71.3886013
+134,Saskatoon,Saskatoon John G. Diefenbaker International Airport,52.1745886,-106.7004823
+135,St. John's,St. John's International Airport,47.6212101,-52.7424429
+136,Regina,Regina International Airport,50.4321034,-104.6639409
+137,Thunder Bay,Thunder Bay International Airport,48.3742602,-89.3194986
+138,Abbotsford/Fraser Valley,Abbotsford International Airport,49.0238799,-122.3642007
+139,Hamilton,John C. Munro Hamilton International Airport,43.1632264,-79.9265731
+140,London,London International Airport,43.0285506,-81.1498643
+141,Greater Moncton,Greater Moncton Roméo LeBlanc International Airport,46.1161813,-64.6884467
