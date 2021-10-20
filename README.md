@@ -14,6 +14,14 @@ This file contains LCI and LCIA for the catering stage of conferences.
 This file contains LCI and LCIA for the hybrid scenarios.
 ### Virtual Con_In-person&Virtual.xlsm: 
 This file contains LCI and LCIA for the in-person and virtual scenarios.
+## Code files
+Code for looking for the nearest airport of each participant, calculating total travel distance, and optimization model are provided in this file. The imported and exported files are also available.
+### Participant nearest airport
+This file looks for the nearest airport of each participant. "Geocoordinate.csv" and "World60_US60_airport.csv" are imported and "Participant_nearest_airport.csv" are exported.
+### Distance computing
+This file computes the total travel distance for each participant. "Geocoordinate.csv", "Alternative hub locations.csv", and "Participant_nearest_airport.csv" are imported and "Distance_matrix_1hub.csv" and "Distance_matrix_multihub.csv" are exported.
+### Optimization model
+This file executes the optimization model to look for optimal hubs and participant assignments to these hubs. "Distance_matrix_1hub.csv" and "Distance_matrix_multihub.csv" are imported and "df_result_final" are generated. 
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
 > Tao, Y., & You, F.* (2021). Trend of virtual and hybrid conferences since COVID-19 effectively mitigate climate change, submitted to Nature Communication.
