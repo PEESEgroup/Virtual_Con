@@ -24,6 +24,6 @@ This file computes the total travel distance for each participant. "Geocoordinat
 This file executes the optimization model to look for optimal hubs and participant assignments to these hubs. "Distance_matrix_1hub.csv" and "Distance_matrix_multihub.csv" are imported and "df_result_final" are generated. 
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
-> Tao, Y., & You, F.* (2021). Trend of virtual and hybrid conferences since COVID-19 effectively mitigate climate change, submitted to Nature Communication.
+> Tao, Y., Steckel, D., Klemeš, J. J. & You, F.* (2021), Trend of virtual and hybrid conferences since COVID-19 effectively mitigate climate change, submitted to Nature Communications.
 > 
 > [![DOI](https://zenodo.org/badge/407425669.svg)](https://zenodo.org/badge/latestdoi/407425669)
